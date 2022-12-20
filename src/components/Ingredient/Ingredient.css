@@ -1,0 +1,43 @@
+.imgIngredient {
+    width: 100px;
+    height: 100px;
+}
+
+.lineIngredient {
+    width: 450px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 5px;
+}
+
+.priceIngredient {
+    /*border-right: 2px solid black;*/
+    /*border-left: 2px solid black;*/
+    border-bottom: 1px solid black;
+    padding: 5px 8px;
+}
+
+.nameIngredient {
+    /*border-right: 2px solid black;*/
+    /*border-left: 2px solid black;*/
+    /*border-bottom: 2px solid black;*/
+    padding: 5px 8px;
+    font-weight: 600;
+}
+
+.countBtn {
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.deleteBtn {
+    cursor: pointer;
+}
+
+.countBtn:hover, .deleteBtn:hover {
+    background: #e6803b;
+    color: white;
+    box-shadow: 1px 1px 11px 11px #eb8743;
+    border-radius: 50px;
+}

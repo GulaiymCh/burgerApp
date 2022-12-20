@@ -1,0 +1,31 @@
+.container {
+    max-width: 1200px;
+    padding: 0 15px;
+    margin: 30px auto;
+    font-family: 'Spline Sans Mono', monospace;
+    font-size: 20px;
+}
+
+.burger {
+    font-family: 'Permanent Marker', cursive;
+    margin: 30px;
+    font-size: 150px;
+    text-align: center;
+}
+
+.burgerIngredients {
+    display: flex;
+    justify-content: space-around;
+}
+
+.box {
+    padding: 20px;
+    background: rgba(256, 256, 256, 0.8);
+    box-shadow: 3px -5px 20px 20px white;
+}
+
+.boxTitle{
+    padding: 0 15px;
+    font-size: 20px;
+    margin: 0 auto;
+}
