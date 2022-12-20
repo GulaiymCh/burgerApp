@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/burgerApp/static/css/main.05e5ca8f.css",
+    "main.js": "/burgerApp/static/js/main.6d06b681.js",
+    "static/media/back.jpg": "/burgerApp/static/media/back.28065da26a36fb145fea.jpg",
+    "static/media/salad.png": "/burgerApp/static/media/salad.1ec9ef46495b7d9d596a.png",
+    "static/media/meat.png": "/burgerApp/static/media/meat.cea36a955a61c3bbead9.png",
+    "static/media/bacon.png": "/burgerApp/static/media/bacon.7d8c02846316d9c92dec.png",
+    "static/media/cheese.png": "/burgerApp/static/media/cheese.d09ee6215c6b6f61a72d.png",
+    "index.html": "/burgerApp/index.html",
+    "main.05e5ca8f.css.map": "/burgerApp/static/css/main.05e5ca8f.css.map",
+    "main.6d06b681.js.map": "/burgerApp/static/js/main.6d06b681.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05e5ca8f.css",
+    "static/js/main.6d06b681.js"
+  ]
+}
